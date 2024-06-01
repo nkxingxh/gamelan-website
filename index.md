@@ -3,13 +3,13 @@ title: 介绍
 project_name: GameLan 联机助手
 keywords: "联机助手,游戏联机,联机工具,游戏,联机,组网,局域网,虚拟局域网,LAN,GameLan,MC联机"
 download_url: https://lanzoux.com/iBTTt20hebid
-# second_btn_title: "💦 加入QQ群"
-# second_btn_url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QxI54ihHfKNMTCD5SEQHzI4teAWrOdZi&authKey=yUzHGA8URjeZsn%2FJ9qHTZj7jtuJEhdGmWETjd1omsbo7EkgdQe2cdibxTzxWoeqN&noverify=0&group_code=831751717
+second_btn_title: "💦 加入QQ群"
+second_btn_url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=c45QuA9D_wYtFfqAaAMnK86BMSV7kZPo&authKey=VOlsMNYtoXUuySmtWIrW3jQHYDbC9lucom30VVoJ27KQdIC4qn5CW9qiUzgb3w4j&noverify=0&group_code=932377322
 credits: "Copyright 2022-2024 NKXingXh. All Rights Reserved."
 layout: easy
 ---
 
-<!-- 🔔 **点击👆上方按钮加入交流群🔝** 群号 831751717 -->
+🔔 **点击👆上方按钮加入交流群🔝** 群号 932377322
 
 <!-- * * * -->
 
@@ -30,13 +30,13 @@ layout: easy
 
 <!-- ## 🧱 特性 -->
 
-## 安全
+## 🔐 安全
 
 不同于其他端口映射工具，本软件不会将某个或某些端口暴露在公共互联网上，尽可能地降低了安全风险。
 
 且数据传输均使用了端到端加密，传输内容难以被截获和篡改。
 
-## 网络
+## 📡 网络
 
 为提高联机网络质量，在网络条件允许的情况下，本软件会自动尝试在数据传输方之间建立 P2P 连接。
 
@@ -46,7 +46,7 @@ layout: easy
 
 <!-- ## 🎯 支持的目标程序 -->
 
-## 📨 报告问题 & 功能请求
+## 📨 报告问题
 
 欢迎加入我们的交流群反馈问题。
 

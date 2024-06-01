@@ -21,7 +21,7 @@
 title: GameLan 联机助手
 email: nkxingxh@nkxingxh.top
 description: >- # this means to ignore newlines until "baseurl:"
-  快速联机, 轻松组网。
+  轻松组网, 快速联机。
   解决无公网IP情况下的游戏联机与远程访问难题。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

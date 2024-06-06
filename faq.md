@@ -20,7 +20,7 @@ layout: easy
 
 **解决方法**
 
-![区域设置](/images/solution/1.png)
+![区域设置](/images/solution/1.webp)
 
 ### 登录失败，请重启客户端
 
@@ -42,17 +42,17 @@ layout: easy
 
 ### 驱动签名问题
 
-![驱动签名问题](/images/device/1.png)
+![驱动签名问题](/images/device/1.webp)
 
 如果显示 **Windows 无法验证此设备所需的驱动程序的数字签名**，请先卸载当前版本。
 
-![卸载TAP-Windows](/images/solution/2.png)
+![卸载TAP-Windows](/images/solution/2.webp)
 
 然后手动安装 `tap-windows-9.21.2.exe` 即可。
 
 ### 注册表无用项问题
 
-![注册表无用项问题](/images/device/2.png)
+![注册表无用项问题](/images/device/2.webp)
 
 如果显示 **Windows 仍在设置此设备的类配置**，请使用 **CCleaner** 清理注册表。
 

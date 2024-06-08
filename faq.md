@@ -111,3 +111,15 @@ Tip: 如果你所在地区的运营商存在限制 (例如福建)，则可能无
 ![打开路由器管理地址](./images/solution/5.png)
 
 将 `UPnP` 功能启用。
+
+[TP-LINK 官方设置教程](https://resource.tp-link.com.cn/pc/docCenter/showDoc?id=1655112527113938)
+
+[华为路由器官方设置教程](https://consumer.huawei.com/cn/support/content/zh-cn00225379/)
+
+#### 设置 DMZ 主机
+
+Tip: 在设置 DMZ 主机前，建议为你的设备设置静态内网IP地址或者在DHCP设置中指定本机的内网IP。
+
+[TP-LINK 官方设置教程](https://security.tp-link.com.cn/service/detail_article_2442.html)
+
+[华为路由器官方设置教程](https://consumer.huawei.com/cn/support/content/zh-cn00225378/)

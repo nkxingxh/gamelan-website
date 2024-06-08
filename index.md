@@ -2,7 +2,7 @@
 title: 介绍
 project_name: GameLan 联机助手
 keywords: "联机助手,游戏联机,联机工具,游戏,联机,组网,局域网,虚拟局域网,LAN,GameLan,MC联机"
-download_url: https://www.lanzoul.com/iriB2210jacf
+download_url: https://www.lanzoul.com/izQaG2184pyf
 second_btn_title: "💦 加入QQ群"
 second_btn_url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=c45QuA9D_wYtFfqAaAMnK86BMSV7kZPo&authKey=VOlsMNYtoXUuySmtWIrW3jQHYDbC9lucom30VVoJ27KQdIC4qn5CW9qiUzgb3w4j&noverify=0&group_code=932377322
 credits: "Copyright 2022-2024 NKXingXh. All Rights Reserved."

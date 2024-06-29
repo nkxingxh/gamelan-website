@@ -1,7 +1,7 @@
 ---
 title: 常见问题
-project_name: GameLan 联机助手
-keywords: "联机助手,游戏联机,联机工具,游戏,联机,组网,局域网,虚拟局域网,LAN,GameLan,MC联机"
+project_name: GameLAN 联机助手
+keywords: "联机助手,游戏联机,联机工具,游戏,联机,组网,局域网,虚拟局域网,LAN,GameLAN,MC联机"
 credits: "Copyright 2022-2024 NKXingXh. All Rights Reserved."
 layout: easy
 ---

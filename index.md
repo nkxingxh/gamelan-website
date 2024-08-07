@@ -1,7 +1,7 @@
 ---
 title: 介绍
 project_name: GameLAN 联机助手
-keywords: "联机助手,游戏联机,联机工具,联机软件,游戏,联机,组网,局域网,虚拟局域网,LAN,GameLAN,MC联机"
+keywords: "联机助手,游戏联机,联机工具,联机软件,免费联机,远程联机,局域网联机,虚拟局域网,MC联机,GameLAN"
 download_url: https://www.lanzoul.com/iWjsj238jg8h
 second_btn_title: "💦 加入QQ群"
 second_btn_url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fVZ60XVZ6_wLk98lP1JbrWz3uc3P6S-X&authKey=wIzFoJzUKrWzllsAuiF5FP7awwRgMmT455lv0ANnNY7CK4aIdslDfhKXWSvy4pJI&noverify=0&group_code=978132437
@@ -36,11 +36,11 @@ layout: easy
 
 如果自动安装失败，可下载安装程序手动安装，下载链接见[页面底部](#-其他链接)。
 
-### 创建
+### 我是房主 🏠 创建房间
 
 运行联机助手，创建房间。点击【分享房间】复制房间信息，发送给好友即可。
 
-### 加入
+### 我是成员 📲 加入房间
 
 复制好友分享的房间信息，打开联机助手。稍等片刻，选择【是】即可加入好友房间。
 

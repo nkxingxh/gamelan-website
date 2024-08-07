@@ -1,7 +1,7 @@
 ---
 title: 赞助与捐赠
 project_name: GameLAN 联机助手
-keywords: "联机助手,游戏联机,联机工具,游戏,联机,组网,局域网,虚拟局域网,LAN,GameLAN,MC联机"
+keywords: "联机助手,游戏联机,联机工具,联机软件,免费联机,远程联机,局域网联机,虚拟局域网,MC联机,GameLAN"
 credits: "Copyright 2022-2024 NKXingXh. All Rights Reserved."
 layout: easy
 ---

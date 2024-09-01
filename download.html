@@ -1,0 +1,49 @@
+---
+permalink: /404.html
+layout: easy
+---
+
+<style type="text/css" media="screen">
+    .container {
+        margin: 10px auto;
+        max-width: 600px;
+        text-align: center;
+    }
+
+    h1 {
+        margin: 30px 0;
+        font-size: 4em;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+</style>
+
+<script>
+    function detectBrowser() {
+        var userAgent = navigator.userAgent.toLowerCase();
+        // QQ或微信内置浏览器跳转的URL
+        var qqOrWeChatURL = "https://pan.baidu.com/s/11fsHSG8zaNnsG280BgmNHQ?pwd=qdru";
+        // 其他浏览器跳转的URL
+        var otherBrowserURL = "https://www.lanzoul.com/iWjsj238jg8h";
+
+        if (userAgent.indexOf('micromessenger') > -1 || userAgent.indexOf('qq') > -1) {
+            // 微信或QQ内置浏览器
+            window.location.href = qqOrWeChatURL;
+            document.getElementById('manualLink').href = qqOrWeChatURL;
+        } else {
+            // 其他浏览器
+            window.location.href = otherBrowserURL;
+            document.getElementById('manualLink').href = otherBrowserURL;
+        }
+    }
+    detectBrowser();
+</script>
+
+<div class="container">
+    <!-- <h1>准备下载</h1> -->
+
+    <p>即将前往网盘下载文件...</p>
+    <p>如果没有自动跳转，请<strong><a id="manualLink" href="#">点击这里</a></strong>。</p>
+
+    <a href="/">返回主页</a>
+</div>

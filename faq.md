@@ -18,7 +18,7 @@ layout: easy
 
 <!-- 如果你没有安装杀毒软件，则检查 Windows Defender 是否拦截了软件的部分操作。 -->
 
-如果你没有安装杀毒软件，请**禁用Windows Defender**后重启电脑。[点击查看B站教程](https://search.bilibili.com/all?keyword=%E5%85%B3%E9%97%ADwindows+defender)
+如果你没有安装杀毒软件，请**禁用Windows Defender**后重启电脑。[点击查看B站教程](https://search.bilibili.com/all?keyword=%E5%85%B3%E9%97%ADwindows+defender){:target="_blank"}
 
 如果已经关闭上述软件，或**确保其不会拦截联机助手**的任何操作后，再次运行联机助手。
 

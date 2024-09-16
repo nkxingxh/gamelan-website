@@ -48,6 +48,12 @@ layout: easy
 
 <!-- ## 🧱 特性 -->
 
+## 📞 语音
+
+软件集成了语音功能，启用后同一房间内的成员可以进行语音聊天。
+
+使用语音功能需要安装[语音组件包](https://www.lanzoul.com/iOcVb2a4dm8f){:target="_blank"}。
+
 ## 🔐 安全
 
 不同于其他端口映射工具，本软件不会直接将某个或某些应用端口暴露在公共互联网上。
@@ -64,12 +70,6 @@ layout: easy
 
 此时，数据将会通过我们的[联机服务器](./server.md)在用户间进行转发。
 
-## 📞 语音
-
-软件集成了语音功能，启用后同一房间内的成员可以进行语音聊天。
-
-使用语音功能需要安装[语音组件包](https://www.lanzoul.com/iOcVb2a4dm8f)。
-
 <!-- ## 🎯 支持的目标程序 -->
 
 ## 📨 社区
@@ -78,9 +78,9 @@ layout: easy
 
 ## 📺 演示视频
 
-[一键联机工具 支持各种局域网联机游戏](https://www.bilibili.com/video/BV1NM4m167M5)
+[一键联机工具 支持各种局域网联机游戏](https://www.bilibili.com/video/BV1NM4m167M5){:target="_blank"}
 
-[无需内网穿透 半分钟联机泰拉瑞亚 局域网游戏联机软件](https://www.bilibili.com/video/BV1jb421H7ju)
+[无需内网穿透 半分钟联机泰拉瑞亚 局域网游戏联机软件](https://www.bilibili.com/video/BV1jb421H7ju){:target="_blank"}
 
 <!-- * * *
 
